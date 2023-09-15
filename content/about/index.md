@@ -1,23 +1,33 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'me1.jpeg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
-  - Python
+  - Languages  - Java, JavaScript, Python, C, C++, SQL, C#, Vb.NET, TypeScript, HTML, CSS
+  - Database and Build Tools - MySQL, Oracle DB, MS SQL, PostgreSQL, SQLite, MongoDB, Maven, Gradle
+  - Technologies/Frameworks - .NET Framework, Entity Framework, Node.js, Restful API, Spring Boot, JPA, Hibernate, React.js, Angular, Node.js, Flask, Redux
+  - Cloud - AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform)
 ---
 
-Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
 
-I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing. 
+Hello! Currently I'm a grad student in computer engineering at [Stony Brook University](https://www.stonybrook.edu/), where I'm diving deep into the exciting world of distributed systems, operating systems, and the intriguing realm of data structures and algorithms with a GPA of 3.72 on scale of 4.
 
-I'm also an [Innovation Agent](https://drive.google.com/file/d/117KS9QnDrcg7dllcAzGz_b7qQPgR3pGs/view?usp=sharing) fostering the culture of creativity and innovation at Amdocs, India.
+Interestingly, I first got introduced to C programming in 9th grade in school and I realized right away that Computer Science was 
+my calling. This compelled me to choose Computer Science and Engineering as my major at [Vishwakarma Institute of Technology, Pune](https://www.vit.edu/) (2014-2018) to understand the 
+underlying technologies and frameworks that machines are built on. 
 
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
+During my senior year, I interned at [Wisdmlabs](https://wisdmlabs.com/), a company that builds creative and effective web 
+solutions with WordPress. While working here, I picked up essential web development 
+skills and developed mobile-friendly and responsive websites for our clients. 
+
+After completing my undergraduate education, I joined a multinational corporation 
+[Emerson Electric Co](https://www.emerson.com/global) as an Associate Software Engineer. At Emerson, I stepped up my game further 
+and developed its MES product (‘Manufacturing Execution System’) for various marquee 
+pharmaceutical customers like Moderna, Lonza, BMS, DSM, and Novartis using the .NET framework. 
+
+Identifying a major gap in our core practice of developing WiX installers for Emerson’s proprietary software, I 
+developed an internal tool to automate the process. This brought down the installer development time 
+to ~2 hours, saving up to 25 hours each for 50 software products, and I was awarded the [SPOT award](https://drive.google.com/file/d/1dDaE8Fw5uqfsXnpBCLpeFINwTCWouGzX/view?usp=sharing) 
+for my initiative.
 
 Here is a list of the technologies that I'm familiar with!
+

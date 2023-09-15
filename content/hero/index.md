@@ -1,12 +1,12 @@
 ---
 title: 'Hello World! My name is'
-name: 'Chandrika Deb'
+name: 'Namrata Balwani'
 subtitle: 'I love exploring new things!'
 buttonText: 'Contact Me'
 ---
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
+I'm a software developer with a goal-driven creative mindset and passion for learning and innovating.
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
+Currently I'm a grad student in computer engineering at [Stony Brook University](https://www.stonybrook.edu/), where I'm diving deep into the exciting world of distributed systems, operating systems, and the intriguing realm of data structures and algorithms.
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+When I'm not immersing myself in the digital universe, you can catch me grooving on the dance floor or smashing birdies on the badminton court!💃🏸💻🌟

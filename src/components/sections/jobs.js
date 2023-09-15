@@ -200,7 +200,9 @@ const Jobs = ({ data }) => {
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyPressed(e)}>
           {data &&
             data.map(({ node }, i) => {
+              console.log()
               const { company } = node.frontmatter;
+              console.log(company);
               return (
                 <li key={i}>
                   <StyledTabButton
@@ -222,8 +224,11 @@ const Jobs = ({ data }) => {
 
         {data &&
           data.map(({ node }, i) => {
+            console.log("Node",node);
             const { frontmatter, html } = node;
             const { title, url, company, range } = frontmatter;
+            const titles = title.split(",");
+            console.log(titles.length);
             return (
               <StyledTabContent
                 key={i}
@@ -233,6 +238,9 @@ const Jobs = ({ data }) => {
                 aria-labelledby={`tab-${i}`}
                 tabIndex={activeTabId === i ? '0' : '-1'}
                 hidden={activeTabId !== i}>
+                {titles.map((titleIndex, index) => {
+                  
+                })}  
                 <StyledJobTitle>
                   <span>{title}</span>
                   <StyledCompany>

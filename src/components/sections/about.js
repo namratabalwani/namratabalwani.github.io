@@ -25,7 +25,6 @@ const StyledContent = styled.div`
 `;
 const SkillsContainer = styled.ul`
   display: grid;
-  grid-template-columns: repeat(2, minmax(140px, 200px));
   overflow: hidden;
   padding: 0;
   margin: 20px 0 0 0;
@@ -124,8 +123,16 @@ const About = ({ data }) => {
       <StyledFlexContainer>
         <StyledContent>
           <div dangerouslySetInnerHTML={{ __html: html }} />
-          <SkillsContainer>
-            {skills && skills.map((skill, i) => <Skill key={i}>{skill}</Skill>)}
+          <SkillsContainer>                   
+            {skills &&
+              skills.map((skill, i) => (
+                <Skill key={i}>
+                  <strong style={{ fontWeight: 'bold', color: '#F5F5F5' }}>
+                    {skill.split(' ')[0]}
+                  </strong>{' '}
+                  {skill.split(' ').slice(1).join(' ')}
+                </Skill>
+              ))}
           </SkillsContainer>
         </StyledContent>
         <StyledPic>

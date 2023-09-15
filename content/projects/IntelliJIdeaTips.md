@@ -1,12 +1,17 @@
 ---
-date: '2021-06-21'
-title: 'IntelliJ Idea Tips & Tricks'
-github: 'https://github.com/chandrikadeb7/IntelliJ-Idea-Tips-n-Tricks'
-external: 'https://chandrikadeb7.github.io/IntelliJ-Idea-Tips-n-Tricks/'
+date: '2023-01-21'
+title: 'Digital Image Processing Projects'
+github: 'https://github.com/namratabalwani/DIP'
+external: ''
 tech:
-  - IntelliJ Idea
-company: 'Amdocs'
+  - Jupyter Notebook
+  - Python
+  - OpenCV
+  - NumPy
+  - MatPlotLib
+
+company: ''
 showInProjects: true
 ---
 
-IntelliJ Idea Tips and Tricks for Java/Spring Microservices Handling
+Digital Image Processing Projects utilizing algorithms like Gaussian and KNN mean for noise reduction and image improvement.
