@@ -4,7 +4,7 @@ module.exports = {
     'Namrata Balwani is a graduate student in Computer Engineering at Stony Brook Univeristy, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Namrata Balwani, Namrata, Balwani, balwaninamrata15, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+  siteUrl: 'https://namratabalwani.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
